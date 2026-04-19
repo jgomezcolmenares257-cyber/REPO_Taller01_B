@@ -28,11 +28,8 @@ namespace persistencia
 		    	Console.WriteLine("directorio creado correctamente");
 		    }
 		    
-			Console.Write("Press any key to continue . . . ");
-			Console.ReadKey(true);
-		}
-	}
-}
+	//TODO: Inplemen Functionality Here
+		
             string dir = "./";
 
             Console.WriteLine("Desafío 1...");
@@ -79,3 +76,6 @@ namespace persistencia
 
             Console.WriteLine("proceso finalizado:");
             Console.ReadKey(true);
+		}
+	}
+}
